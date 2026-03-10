@@ -1,3 +1,1 @@
-migpt-server:latest
-docker.io/lmk123/migpt-server:latest
-docker.io/lmk123/migpt-server:latest
+docker.io/eipwork/kuboard-agent:v3
